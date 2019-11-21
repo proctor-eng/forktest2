@@ -1,0 +1,5 @@
+steps:
+- name: 'ubuntu'
+  args: ['sleep', '300']
+- name: 'ubuntu'
+  args: ['echo', 'HELLO WORLD!']
